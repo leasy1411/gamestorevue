@@ -5,7 +5,7 @@
 <template>
   <header>
     <RouterLink to="/"><span>Game</span>Store</RouterLink>
-    <RouterLink to="/create"><div class="icon-create"><img src="src/assets/icon-add.svg" alt=""></div></RouterLink>
+    <RouterLink to="/create"><div class="icon-create"><img src="/src/assets/icon-add.svg" alt=""></div></RouterLink>
   </header>
   <RouterView />
 </template>

@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="card-button">
-        <button @click="() => deleteItem(props.item.id)"><img src="src/assets/icon-delete.svg" alt=""></button>
+        <button @click="() => deleteItem(props.item.id)"><img src="/src/assets/icon-delete.svg" alt=""></button>
       </div>
     </div>
   </div>
